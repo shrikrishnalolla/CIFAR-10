@@ -1,5 +1,5 @@
 # CIFAR-10
-The project attempts to classify 60000 images(50000 trainset and 10000 testset) from CIFAR-10 dataset into 10 classes : airplane , automobile , bird , cat , deer , dog , frog , horse , ship or truck. This is done with the help of Convolutional Neural Netwroks(CNN).
+The project attempts to classify 60000 images(50000 trainset and 10000 testset) from CIFAR-10 dataset into 10 classes: airplane ,automobile ,bird ,cat ,deer ,dog ,frog ,horse, ship or truck. This is done with the help of Convolutional Neural Netwroks(CNN).
 
 The dataset can be previewed and downloaded from the link given below :
 
