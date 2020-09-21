@@ -5,6 +5,7 @@ The dataset can be previewed and downloaded from the link given below :
 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
+Three Blocks have been employed in the classification task. Each block has a general form : CONV layers -> Relu -> Batch Normalisation followed by Max Pooling and Dropout. 
 To enhance performance, Image Augmentation has been implemented. The model achieves 89.92 % Train accuracy and 89.78% Test accuracy.
 
 The code is written in Python with the help of the popular deep learning framework Keras.
