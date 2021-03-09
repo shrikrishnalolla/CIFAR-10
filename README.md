@@ -1,6 +1,8 @@
 # CIFAR-10 Image Classification
 The project attempts to classify 60000 images(50000 trainset and 10000 testset) from CIFAR-10 dataset into 10 classes: airplane ,automobile ,bird ,cat ,deer ,dog ,frog ,horse, ship or truck. This is done with the help of Convolutional Neural Netwroks(CNN).
 
+The model structure was inspired from VGG-16. Several modifications were made to achieve a better accuracy.
+
 The dataset can be previewed and downloaded from the link given below :
 
 https://www.cs.toronto.edu/~kriz/cifar.html
